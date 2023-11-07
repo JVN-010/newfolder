@@ -53,20 +53,20 @@ div {
   height: 50px;
 }
 .d1 {
-  color: rgb(251, 112, 112);
+  background-color: rgb(251, 112, 112);
 }
 .d2 {
   color: rgb(87, 87, 225);
 }
 .d3 {
-  color: rgb(121, 225, 121);
+  background-color: rgb(121, 225, 121);
 }
 .s1 {
-  color: rgb(229, 255, 0);
+  background-color: rgb(229, 255, 0);
 }
 .s2 {
   color: rgb(0, 234, 255);
 }
 .s3 {
-  color: rgb(218, 147, 191);
+  background-color: rgb(218, 147, 191);
 }
